@@ -1,0 +1,15 @@
+.search-box{
+    padding: 0;
+    border: 0;
+    margin: 0;
+    width: 400px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    background: #2f87da;
+    color: #ffffff;
+  }
+  ::-webkit-input-placeholder {
+    color: #ffffff;
+    font-size: 15px;
+  }

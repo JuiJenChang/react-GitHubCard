@@ -1,0 +1,50 @@
+.github-profile{
+    text-align: center;
+    background: -webkit-linear-gradient(90deg, #e100ff, #8a14f8, #2f87da);
+  }
+  .github-profile img{ 
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+    border: #47a8e9 5px solid;
+    box-shadow: 0 0 10px 2px #5c5b5b;  
+    margin-top: 30px;
+  }
+  .github-profile h2 a{
+    text-decoration: none;
+    color: #ffffff;
+  }
+  .github-profile h3 {
+    color: #ffffff;
+    margin: 0;
+    font-family: monospace;
+  }
+  .github-profile-list{
+    text-align: center;
+    background: #e100ff;
+  }
+  .github-profile-list ul{
+    margin: 0;
+    padding: 0;
+  }
+  .github-profile-list li {
+    list-style: none;
+    display: inline-block;
+    width: 120px;
+    margin-bottom: 20px;
+  }
+  .github-profile-list a {
+    text-decoration: none;
+  }
+  .github-profile-list p {
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: 800;
+    margin-bottom: 0;
+  }
+  .github-profile-list span {
+    color: #ffffff;
+    font-size: 1rem;
+    font-family: cursive;
+    font-weight: 900;
+  }
